@@ -1,0 +1,20 @@
+:BASE claview.hlp
+:TITLE Clarion Viewer
+1 About
+2 Clarion Viewer=pvViewer
+2 Download=pvDownload
+2 Support=pvSupport
+1 Order and prices
+2 Prices and license types=pvPrices
+2 Order/registration=pvOrder
+2 What you will get when you register=pvAfterRegister
+1 Work with tables
+2 File Open=pvFileOpen
+2 General information=pvGeneralInfo
+2 Table Structure=pvStructure
+2 Data Grid=pvDataGrid
+2 Save As=pvSaveAs
+2 Copy to clipboard=pvClipboard
+2 MEMO/BLOB viewer=pvMEMO
+1 Command-line arguments=pvCommandLine
+1 Configuration file=pvConfig

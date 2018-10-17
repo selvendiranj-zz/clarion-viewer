@@ -1,0 +1,99 @@
+All copyrights to the Clarion Viewer are exclusively
+owned by Mike Shkolnik. 
+
+The Clarion Viewer is a Shareware. If you intend to use
+Clarion Viewer after the trial period of 30 days,
+you must register your copy of Clarion Viewer or stop using it.
+
+You have the non-exclusive right to use any enclosed
+program only by a single person, on a single computer at
+a time. You may physically transfer the program from one
+computer to another, provided that the program is used
+only by a single person, on a single computer at a time.
+In group projects where multiple persons will use the
+program, you must purchase an individual license for
+each member of the group or purchase the site/company license.
+
+License types
+Personal license: one license allows to install and use
+our product on one home computer (one person) only. You
+can use the product for non-commercial purposes in
+non-business, non-commercial environment.
+Business license: one license allows to install and use
+our product in a corporate, government or business environment
+on one computer.
+Site license: you can install and use our product on an
+unlimited number of computers in one domain.
+
+The registered Clarion Viewer software may not be
+rented, leased or transferred. 
+
+The Clarion Viewer unregistered shareware may be freely
+distributed, provided the distribution package is
+not modified. No person or company may charge a
+fee for the distribution of the Clarion Viewer without
+written permission from the copyright holder.
+                            	
+The Clarion Viewer is distributed "AS IS" and you assume
+full responsibility for determining the
+suitability of Clarion Viewer and for results obtained. 
+
+Mike Shkolnik makes no warranty that all errors have
+been or can be eliminated from the Clarion Viewer
+and, with respect thereto, Clarion Viewer shall not be
+responsible for losses, damages, costs, or
+expenses of any kind resulting from using or
+misusing the  Viewer including without limitation,
+any liability for business expenses, machine
+downtime, damages experienced by you or any third
+person as a result of any deficiency, defect, bug,
+error or malfunction. Mike Shkolnik shall not be liable
+for any indirect, special, incidental, or
+consequential damages relating to or arising out
+of the subject matter of this Agreement or actions
+taken thereunder 
+
+NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED.
+YOU USE THE CLARION VIEWER AT YOUR OWN RISK.
+MIKE SHKOLNIK DISCLAIMS ALL WARRANTIES, EITHER
+EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE. NOBODY WILL BE LIABLE FOR DATA LOSS,
+DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS
+WHILE USING OR MISUSING THIS SOFTWARE. 
+
+You may not use, copy, emulate, clone, rent,
+lease, sell, modify, decompile, disassemble,
+otherwise reverse engineer, or transfer the
+licenced program, or any subset of the licenced
+program, except as provided for in this agreement.
+Any such unauthorised use shall result in
+immediate and automatic termination of this
+licence and may result in criminal and/or civil
+prosecution. Any such unauthorised use shall
+result in immediate and automatic termination of
+this licence and may result in criminal and/or
+civil prosecution. 
+
+All rights not expressly granted here are
+reserved by Mike Shkolnik.
+
+The terms of this licence, as well as the Clarion Viewer
+features and interface design are subjects of
+changes in future versions of the Clarion Viewer.
+
+These Terms of Use will be governed by and construed
+in accordance with the laws of the Ukraine. You
+agree and consent that jurisdiction and proper
+venue for all claims, actions and proceedings
+of any kind relating to <company name> or the
+matters in these Terms of Use shall be exclusively
+in courts located in Kiev, Ukraine.
+
+Installing and/or using Clarion Viewer signifies
+acceptance of these terms and conditions of the
+licence.
+
+If you do not agree with the terms of this
+licence you must remove the Clarion Viewer from your
+storage devices and cease to use the product.

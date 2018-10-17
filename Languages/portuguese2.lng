@@ -1,0 +1,149 @@
+[Translations]
+frmMain.tsGeneral.Caption=General Information        === informação
+frmMain.tsStructure.Caption=Table Structure          === estrutura da tabela
+frmMain.tsData.Caption=Data Grid                     === malha de dados
+frmMain.tbbOpen.Caption=Open File                    === abrir arquivo
+frmMain.tbbOpen.Hint=Open table file                 === arquivo de tabela
+frmMain.tbbSave.Caption=Save As                      === salvar como
+frmMain.tbbSave.Hint=Save selected grid to external file  == salvar a malha de dados selecionada para um arquivo externo
+frmMain.tbbExit.Caption=Exit   === sair
+frmMain.tbbExit.Hint=Close application   === fechar aplicativo
+frmMain.btnHomepage.Caption=Homepage    == homepage    -->note we use the same expression as in english here 
+frmMain.btnHomepage.Hint=Visit Scalabium web site  == visite o site Scalabium
+frmMain.tbbSendMail.Caption=Send Mail   === enviar e-mail
+frmMain.tbbSendMail.Hint=Send feedback by email to author   === resposta pr e-mail para o autor do programa
+frmMain.tbbAbout.Caption=About  === sobre
+frmMain.tbbAbout.Hint=Show the dialog with product information  === mostra a tela com informações do produto
+frmMain.miFile.Caption=File  == arquivo
+frmMain.miFile.Hint=   === dica (or you can use here  the world= sugestão)
+frmMain.miOpen.Caption=Open...  ==  abrir
+frmMain.miOpen.Hint=Open source table  ==  abrir tabela original
+frmMain.miReopen.Caption=Reopen  ==  reabrir
+frmMain.miReopen.Hint=Reopen recent tables   === tabelas recentes
+frmMain.miSaveAs.Caption=Save As  === salvar como
+frmMain.miSaveAs.Hint=Save selected grid to external file   === malha de dados selecionada p/ arquivo externo
+frmMain.miFileGenerate.Caption=Generate  ===  ciar (or as an option word = criar)
+frmMain.miFileGenerate.Hint=  ==  sugestão
+frmMain.miCreateTable.Caption=CREATE TABLE statement   === criar comando de tabela
+frmMain.miCreateTable.Hint=   ===   sugestão
+frmMain.miSQLdump.Caption=SQL dump   === copia/dump   (leave both english port here because dump is hard to translate
+                                         properly to portuguese)
+frmMain.miSQLdump.Hint=   === sugestão
+frmMain.miFileExit.Caption=Exit   == sair
+frmMain.miFileExit.Hint=Close application    === fechar aplicativo
+frmMain.miHelp.Caption=Help   === ajuda
+frmMain.miHelp.Hint=    = sugestão
+frmMain.miHelpContents.Caption=&Contents    ===  conteúdo
+frmMain.miHelpContents.Hint=Open context help toipic   === ajuda sensivel ao contexto
+frmMain.miHelpHomepage.Caption=Product Homepage  === homepage do produto
+frmMain.miHelpHomepage.Hint=Visit Scalabium web site  === visite o site Scalabium
+frmMain.miHelpSendEMail.Caption=Send E-mail to support  === mande e-mail para suporte tecnico
+frmMain.miHelpSendEMail.Hint=Send feedback by email to author  == mande feedback para o autor
+frmMain.miHelpAbout.Caption=About product...   ===  sobre esse produto...
+frmMain.miHelpAbout.Hint=Show the dialog with product information  ====  mostrar a tela de informação do produto
+frmMain.miSaveToFile.Caption=Save to file...  === salvar para arquivo
+frmMain.miSaveToFile.Hint=   === ajuda
+frmMain.miCopyToClipboard.Caption=Copy to clipboard    === copiar para o clipboard
+frmMain.miCopyToClipboard.Hint=Copy selected grid to clipboard   ==== copiar a malha de dados selecionada p/ o clipboard
+
+frmMain.miActions.Caption=Actions  ==== ações
+frmMain.miFind.Caption=&Find...   === procurar
+frmMain.miFind.Hint=Searches for text in table contents   === busca por texto na tabela de coneúdo
+frmMain.miGoToRecordNo.Caption=Go to record#   === va para o registro nr.
+frmMain.miGoToRecordNo.Hint=Move the cursor to specified row === mova o cursos para a coluna especificada
+frmMain.miFilter.Caption=Filter...   === filtro
+frmMain.miFilter.Hint=To filter records in table   === para filtrar registros na tabela
+frmMain.miCodepage.Caption=Change codepage/language  === mude codepage/linguagem
+frmMain.miCodepage.Hint=   ===sugestão
+frmMain.miClearCDXFlag.Caption=Unlink dbf-file from the index file (.cdx)   === desassociar arquivo dbf de arquivo de indice
+frmMain.miClearCDXFlag.Hint=Clear index flag in DBF-header === limpar "index-flag" do registro inicial do DBF
+frmMain.miUnDelete.Caption=Recover deleted records  === recuperar registros deletados
+frmMain.miUnDelete.Hint=Undelete all records marked as deleted  === 
+
+frmMain.miView.Caption=View   === visualizar
+frmMain.miLanguage.Caption=Switch language   === mude a linguagem
+frmMain.miLanguageDefault.Caption=use default language   === use a linguagem padrao/default
+frmMain.miLanguageDefault.Hint=  === sugestão
+frmMain.miRegisterExtension.Caption=Register as default viewer in MS Windows  === registrar como visualizador padrao do windows 
+frmMain.miRegisterExtension.Hint=to open the files from Windows Explorer = para abrir os arquivos no windows explorer
+frmMain.miViewRecords.Caption=View record ranges  == visualizar limites de registros
+frmMain.miViewRecordNormal.Caption=all normal records   ===  todos os registros normais
+frmMain.miViewRecordsDeleted.Caption=all deleted records   === todos os registros deletados
+frmMain.miViewRecordsError.Caption=any records with errors   ==== qualquer registro com erro
+frmMain.miOptions.Caption=Options...   === opcoes
+frmMain.miOptions.Hint=Enables you to change settings   === permite a voce mudar os parametros
+
+[Custom]
+AllFileExt=All files (*.*)|*.*
+DBWildCard=Paradox tables (*.db)|*.db|
+DBFWildCard=dBase tables (*.dbf)|*.dbf|
+DATWildCard=DBISAM tables (*.dat)|*.dat|
+CLAWildCard=Clarion data files (*.dat)|*.dat|
+
+AppCopyright=Copyrightc Scalabium 2000-2017. All right reserved.  === 
+SaveWildCard=Comma-delimited files (*.csv)|*.csv|Text files (*.txt)|*.txt|HTML pages (*.htm)|*.htm;*.html|XML files (*.xml)|*.xml|MS Excel spreadsheets (*.xlw)|*.xlw|MS Excel workbooks (*.xls)|*.xls|SPSS format (*.sav)|*.sav|SQL-sripts (*.sql)|*.sql|All files (*.*)|*.*
+=== delimitados por coma (*.csv)|*.csv|arquivos de texto (*.txt)|*.txt|paginas HTML (*.htm)|*.htm;*.html|arquivos XML (*.xml)|*.xml|Planilhas MS Excel (*.xlw)|*.xlw|workbooks MS Excell (*.xls)|*.xls|formato SPSS (*.sav)|*.sav|scripts SQL (*.sql)|*.sql|todos os arquivos (*.*|*.*
+strSetDefaultLanguage=Default language interface will be loaded only after restarting application...
+=== interface de linguagem será carregada somente depois de reiniciar o aplicativo
+strRegTo= This product is licensed to:  === esse produto esta licenciado para
+strOrderOnline=Order online at   === pedidos online para
+strFileName=File name:  === nome
+strGeneratedBy=Generated by   = gerado por
+
+strFieldName=FieldName   === nome do campo
+strFieldType=Type   === tipo
+strFieldSize=Length   === comprimento
+strParamName=Name   === nome
+strParamValue=Value    ==== valor
+strLoadTime=Load time   ==== tempo de carregamento
+
+strRecordSize=Record Size   === tamanho
+strHeaderSize=Header Size   === tamanho
+strFileType=File Type   === tipo de arquivo
+strBlockSize=Block Size   ==== tamanho do bloco
+strRecordCount=Record Count    === contagem de registro
+strFieldCount=Field Count   === contagem de campo
+strPrimaryKeys=Primary keys   === chaves primarias
+strToRebuild=Rebuild required   == refazer requerido
+strSortOrder=Sort Order   === sort order
+strUpdateCount=File update count   === atualização de arquivo "count"
+strLastAutoInc=Last used AutoInc value  === valor usado p/autoincremento
+strProtection=Protection   === protecao
+strWriteProtection=Write protection   === protecao de escrita
+strFileID=File VersionID   === versao de ID
+strTableLevel=Table Level   === nivel de tabela
+strVersionNumber=Version Number   === numero da versao
+strLastUpdated=Last updated   === atualizado
+strIndexExists=Index exists   === arquivo indice ja existe
+strLangID=Language ID   === ID da linguagem
+strFileSignature=File Signature   === assinatura de arquivo (signature)
+strNextFreeRecord=Next free record   === proximo registro livre
+strNextEndRecord=Next ending record   === proximo ultimo registro
+strLastRecordID=Last record ID   === identificador ID do ultimo registro
+strBlobFieldCount=BLOB field count   === campo BLOB "count" 
+strBlobBlockSize=BLOB block size   === tamanho do bloco BLOB
+strLastBlobSignature=Last BLOB signature   == ultima assinatura de BLOB
+strIndexPageSize=Index page size   === tamanho da pagina de indice
+strDescription=Description   === descricao
+strDigest=Digest   === resumo
+strLocaleID=Locale ID   === ID local
+strUserVersion=User version   === versao do usuario
+strRecNoError=Record number must be between 1 and %d   === numero do registro precisa estar entre 1 e %d
+strFindNotFound=Record by specified text is not found. === registro pelo texto especificado nao foi encontrado
+strFindNextNotFound=No more records found.   === nao foi encontrado nenhum novo registro
+strExtRegistered=successfully registered as default viewer for files === sucesso ao se registrar como visualizador default para os arquivos
+strRequired=Required   === necessario  (or opcionally == obrigatorio)
+strCompression=Compression  === compressao
+strDefault=Default   === default
+strMinimum=Minimum   === minimo
+strMaximum=Maximum   ==== maximo
+strFileAttribute=File attribute and status   === atributo de arquivo e status
+strNumberOfKeys=Number of keys   === numero de chaves
+strNumberOfDeleted=Number of deleted records   === numero de arquivos deletados
+strNumberOfPictures=Number of pictures   === numero de imagens
+strNumberOfArrays=Number of arrays    === numero de arrays
+strRecNameNoPrefix=Record without prefix   === registro sem prefixo
+strRecNamePrefix=Record name prefix   === nome do prefixo de registro
+strFileNamePrefix=File name prefix   === nome do arquivo de prfixo
+strLockCount=Lock Count   === "count" travado
+strChecksum=Checksum to encrypt   === Checksum para encriptacao

@@ -1,0 +1,717 @@
+[Translations]
+;
+;You missed one popup menu's item caption.
+;I add them as below.
+;
+;
+;
+;Autofit all columns (by widths)
+;自动适合所有列(按宽度)
+;Autofit current column
+;自动适合当前列
+;Record details
+;记录详细内容
+
+
+
+; frmMain.tsGeneral.Caption=General Information
+frmMain.tsGeneral.Caption=数据表简要信息
+
+;frmMain.tsStructure.Caption=Table Structure
+frmMain.tsStructure.Caption=数据表结构
+
+;frmMain.tsData.Caption=Data Grid
+frmMain.tsData.Caption=表格数据
+
+;frmMain.tbbOpen.Caption=Open File
+frmMain.tbbOpen.Caption=打开文件
+
+;frmMain.tbbOpen.Hint=Open table file
+frmMain.tbbOpen.Hint=打开数据表文件
+
+;frmMain.tbbSave.Caption=Save As
+frmMain.tbbSave.Caption=另存为
+
+;frmMain.tbbSave.Hint=Save selected grid to external file
+frmMain.tbbSave.Hint=保存已选数据表数据到外部文件
+
+;frmMain.tbbExit.Caption=Exit
+frmMain.tbbExit.Caption=退出
+
+;frmMain.tbbExit.Hint=Close application
+frmMain.tbbExit.Hint=关闭应用程序
+
+;frmMain.btnHomepage.Caption=Homepage
+frmMain.btnHomepage.Caption=主页
+
+;frmMain.btnHomepage.Hint=Visit Scalabium web site
+frmMain.btnHomepage.Hint=访问Scalabium公司网站
+
+;frmMain.tbbSendMail.Caption=Send Mail
+frmMain.tbbSendMail.Caption=发送邮件
+
+;frmMain.tbbSendMail.Hint=Send feedback by email to author
+frmMain.tbbSendMail.Hint=通过邮件发送反馈信息给作者
+
+;frmMain.tbbAbout.Caption=About
+frmMain.tbbAbout.Caption=关于
+
+;frmMain.tbbAbout.Hint=Show the dialog with product information
+frmMain.tbbAbout.Hint=显示DATView软件信息
+
+;frmMain.miFile.Caption=File
+frmMain.miFile.Caption=&F 文件
+
+;frmMain.miFile.Hint=
+frmMain.miFile.Hint=
+
+;frmMain.miOpen.Caption=Open...
+frmMain.miOpen.Caption=&O 打开...
+
+;frmMain.miOpen.Hint=Open source table
+frmMain.miOpen.Hint=打开源数据表
+
+;frmMain.miReopen.Caption=Reopen
+frmMain.miReopen.Caption=&R 重新打开
+
+;frmMain.miReopen.Hint=Reopen recent tables
+frmMain.miReopen.Hint=重新打开最近打开过的数据表
+
+;frmMain.miSaveAs.Caption=Save As
+frmMain.miSaveAs.Caption=&A 另存为
+
+;frmMain.miSaveAs.Hint=Save selected grid to external file
+frmMain.miSaveAs.Hint=保存已选数据表数据到外部文件
+
+;frmMain.miFileGenerate.Caption=Generate
+frmMain.miFileGenerate.Caption=&G 创建
+
+;frmMain.miFileGenerate.Hint=
+frmMain.miFileGenerate.Hint=
+
+;frmMain.miCreateTable.Caption=CREATE TABLE statement
+frmMain.miCreateTable.Caption=&C 建立数据表的SQL语句
+
+;frmMain.miCreateTable.Hint=
+frmMain.miCreateTable.Hint=
+
+;frmMain.miSQLdump.Caption=SQL dump
+frmMain.miSQLdump.Caption=&D 建立添加批量数据的SQL语句
+
+;frmMain.miSQLdump.Hint=
+frmMain.miSQLdump.Hint=
+
+;frmMain.miFileExit.Caption=Exit
+frmMain.miFileExit.Caption=&X 退出
+
+;frmMain.miFileExit.Hint=Close application
+frmMain.miFileExit.Hint=关闭应用程序
+
+;frmMain.miHelp.Caption=Help
+frmMain.miHelp.Caption=&H 帮助
+
+;frmMain.miHelp.Hint=
+frmMain.miHelp.Hint=
+
+;frmMain.miHelpContents.Caption=&Contents
+frmMain.miHelpContents.Caption=&C 帮助内容
+
+;frmMain.miHelpContents.Hint=Open context help topic
+frmMain.miHelpContents.Hint=打开帮助内容
+
+;frmMain.miHelpHomepage.Caption=Product Homepage
+frmMain.miHelpHomepage.Caption=&W 本软件的官方主页
+
+;frmMain.miHelpHomepage.Hint=Visit Scalabium web site
+frmMain.miHelpHomepage.Hint=访问Scalabium公司网站
+
+;frmMain.miHelpSendEMail.Caption=Send E-mail to support
+;frmMain.miHelpSendEMail.Caption=&S 发送邮件给技术支持
+frmMain.miHelpSendEMail.Caption=&S 发送邮件给作者
+
+;frmMain.miHelpSendEMail.Hint=Send feedback by email to author
+frmMain.miHelpSendEMail.Hint=通过邮件发送反馈信息给作者
+
+;frmMain.miHelpAbout.Caption=About product...
+frmMain.miHelpAbout.Caption=&A 关于本软件...
+
+;frmMain.miHelpAbout.Hint=Show the dialog with product information
+frmMain.miHelpAbout.Hint=显示DATView软件信息
+
+;frmMain.miSaveToFile.Caption=Save to file...
+frmMain.miSaveToFile.Caption=&S 保存到文件...
+
+;frmMain.miSaveToFile.Hint=
+frmMain.miSaveToFile.Hint=
+
+;frmMain.miCopyToClipboard.Caption=Copy to clipboard
+frmMain.miCopyToClipboard.Caption=&C 复制内容到粘贴板
+
+;frmMain.miCopyToClipboard.Hint=Copy selected grid to clipboard
+frmMain.miCopyToClipboard.Hint=复制已选择的表格内容到粘贴板
+
+;frmMain.miActions.Caption=Actions
+frmMain.miActions.Caption=&A 操作
+
+;frmMain.miFind.Caption=&Find...
+frmMain.miFind.Caption=&F 查找...
+
+;frmMain.miFind.Hint=Searches for text in table contents
+frmMain.miFind.Hint=在数据表中查找指定值所在的记录
+
+;frmMain.miGoToRecordNo.Caption=Go to record#
+frmMain.miGoToRecordNo.Caption=&G 跳到指定号码的记录
+
+;frmMain.miGoToRecordNo.Hint=Move the cursor to specified row
+frmMain.miGoToRecordNo.Hint=把当前的记录指针移到指定的记录上
+
+;frmMain.miFilter.Caption=Filter...
+frmMain.miFilter.Caption=&L 过滤...
+
+;frmMain.miFilter.Hint=To filter records in table
+;frmMain.miFilter.Hint=过滤数据表中的记录
+frmMain.miFilter.Hint=返回数据表中符合过滤条件的记录
+
+;frmMain.miCodepage.Caption=Change codepage/language
+frmMain.miCodepage.Caption=&C 改变编码/语言
+
+;frmMain.miCodepage.Hint=
+frmMain.miCodepage.Hint=
+
+;frmMain.miClearCDXFlag.Caption=Unlink dbf-file from the index file (.cdx)
+frmMain.miClearCDXFlag.Caption=解除dbf文件与索引(.cdx)文件的链接
+
+;frmMain.miClearCDXFlag.Hint=Clear index flag in DBF-header
+frmMain.miClearCDXFlag.Hint=清除DBF文件头中的索引标志
+
+;frmMain.miUnDelete.Caption=Recover deleted records
+frmMain.miUnDelete.Caption=&R 恢复已删除记录
+
+;frmMain.miUnDelete.Hint=Undelete all records marked as deleted
+frmMain.miUnDelete.Hint=恢复所有标有删除标记的记录
+
+;frmMain.miView.Caption=View
+frmMain.miView.Caption=&V 查看
+
+;frmMain.miLanguage.Caption=Switch language
+frmMain.miLanguage.Caption=&S 切换语言
+
+;frmMain.miLanguageDefault.Caption=use default language
+frmMain.miLanguageDefault.Caption=使用缺省语言
+
+;frmMain.miLanguageDefault.Hint=
+frmMain.miLanguageDefault.Hint=
+
+;frmMain.miRegisterExtension.Caption=Register as default viewer in MS Windows
+frmMain.miRegisterExtension.Caption=&R 在MS Windows中注册为缺省的查看器
+
+;frmMain.miRegisterExtension.Hint=to open the files from Windows Explorer
+frmMain.miRegisterExtension.Hint=作为缺省的查看器，在Windows Explorer中可直接打开数据文件
+
+;frmMain.miUnRegisterExtension.Caption=Unregister as default viewer in MS Windows
+frmMain.miUnRegisterExtension.Caption=&U 取消在MS Windows中作为缺省的查看器
+
+;frmMain.miUnRegisterExtension.Hint=do not open the files from Windows Explorer
+frmMain.miUnRegisterExtension.Hint=取消作为缺省的查看器在Windows Explorer中直接打开数据文件
+
+;frmMain.miViewRecords.Caption=View record ranges
+frmMain.miViewRecords.Caption=&W 查看记录范围
+
+;frmMain.miViewRecordNormal.Caption=all normal records
+frmMain.miViewRecordNormal.Caption=所有普通的记录
+
+;frmMain.miViewRecordsDeleted.Caption=all deleted records
+frmMain.miViewRecordsDeleted.Caption=所有已删除的记录
+
+;frmMain.miViewRecordsError.Caption=any records with errors
+frmMain.miViewRecordsError.Caption=所有有错的记录
+
+;frmMain.miOptions.Caption=Options...
+frmMain.miOptions.Caption=&O 选项...
+
+;frmMain.miOptions.Hint=Enables you to change settings
+frmMain.miOptions.Hint=允许用户改变设置
+
+;frmAbout.lblHomepage.Hint=Go to Scalabium homepage
+frmAbout.lblHomepage.Hint=访问Scalabium公司网站
+
+;frmAbout.lblMail.Hint=Send feedback by e-mail
+frmAbout.lblMail.Hint=通过邮件发送反馈信息给作者
+
+;frmAbout.lblRegTo.Caption= This product is licensed to: 
+frmAbout.lblRegTo.Caption= 本软件使用权属于: 
+
+;frmAbout.lblUserInfo.Caption=Username:
+frmAbout.lblUserInfo.Caption=用户名:
+
+;frmAbout.lblOrder.Caption=Order online at 
+frmAbout.lblOrder.Caption=在线订购
+
+;frmAbout.lblOrder.Hint=Order a product online
+frmAbout.lblOrder.Hint=在线订购本软件
+
+;frmAbout.btnOK.Caption=&OK
+frmAbout.btnOK.Caption=&O 确认
+
+;frmBlobView.btnClose.Caption=Close
+frmBlobView.btnClose.Caption=&C 关闭
+
+;frmBlobView.pcViewMode.Hint=
+frmBlobView.pcViewMode.Hint=
+
+;frmBlobView.tsGraphic.Caption=View as picture
+frmBlobView.tsGraphic.Caption=查看图片
+
+;frmBlobView.btnLoad.Caption=Load
+frmBlobView.btnLoad.Caption=装载
+
+;frmBlobView.btnSave.Caption=Save
+frmBlobView.btnSave.Caption=保存
+
+;frmBlobView.btnCopy.Caption=Copy
+frmBlobView.btnCopy.Caption=复制
+
+;frmBlobView.btnPaste.Caption=Paste
+frmBlobView.btnPaste.Caption=粘贴
+
+;frmBlobView.btnClear.Caption=Clear
+frmBlobView.btnClear.Caption=清除
+
+;frmBlobView.cbImgCenter.Caption=Center
+frmBlobView.cbImgCenter.Caption=居中
+
+;frmBlobView.cbImgStretch.Caption=Stretch
+frmBlobView.cbImgStretch.Caption=自动伸展
+
+;frmBlobView.tsHex.Caption=View as hex-data
+frmBlobView.tsHex.Caption=查看十六进制(Hex)数据
+
+;frmBlobView.btnSaveToFile.Caption=Save to file
+frmBlobView.btnSaveToFile.Caption=保存到文件
+
+;frmExport.Caption=Convert options
+frmExport.Caption=改变选项
+
+;frmExport.btnOK.Caption=&OK
+frmExport.btnOK.Caption=&O 确认
+
+;frmExport.btnCancel.Caption=&Cancel
+frmExport.btnCancel.Caption=&C 取消
+
+;frmExport.tsFile.Caption=File
+frmExport.tsFile.Caption=&F 文件
+
+;frmExport.lblFileName.Caption=File name:
+frmExport.lblFileName.Caption=文件名字:
+
+;frmExport.rgFormat.Caption= Format 
+frmExport.rgFormat.Caption= 格式 
+
+;frmExport.tsFields.Caption= Fields 
+frmExport.tsFields.Caption= 字段 
+
+;frmExport.rbAllFields.Caption=all fields
+frmExport.rbAllFields.Caption=所有字段
+
+;frmExport.rbSelectedFields.Caption=selected fields
+frmExport.rbSelectedFields.Caption=已选择的字段
+
+;frmExport.tsRows.Caption=Rows
+frmExport.tsRows.Caption=行
+
+;frmExport.rbAllRows.Caption=all rows
+frmExport.rbAllRows.Caption=所有行
+
+;frmExport.rbRowRange.Caption=row range
+frmExport.rbRowRange.Caption=行范围
+
+;frmExport.rbRowCondition.Caption=custom expression
+frmExport.rbRowCondition.Caption=自定义表达式
+
+;frmExport.chkFirstRow.Caption=first row#
+frmExport.chkFirstRow.Caption=首行#
+
+;frmExport.chkLastRow.Caption=last row#
+frmExport.chkLastRow.Caption=末行#
+
+;frmExport.miSelectAll.Caption=Select All
+frmExport.miSelectAll.Caption=全选
+
+;frmExport.miUnselectAll.Caption=Unselect All
+frmExport.miUnselectAll.Caption=取消全选
+
+;frmExport.miInvert.Caption=Invert selection
+frmExport.miInvert.Caption=反向选择
+
+;frmFilter.Caption=Set a table filter
+frmFilter.Caption=设置数据表的过滤条件
+
+;frmFilter.btnOk.Caption=OK
+frmFilter.btnOk.Caption=&O 确认
+
+;frmFilter.btnCancel.Caption=Cancel
+frmFilter.btnCancel.Caption=&C 取消
+
+;frmFilter.gbFilter.Caption= Filter Expression 
+frmFilter.gbFilter.Caption= 过滤表达式
+
+;frmFindText.Caption=Find Text
+frmFindText.Caption=查找内容
+
+;frmFindText.lblValue.Caption=Value:
+frmFindText.lblValue.Caption=查找值:
+
+;frmFindText.btnFind.Caption=&Find
+frmFindText.btnFind.Caption=&F 查找
+
+;frmFindText.btnClose.Caption=&Close
+frmFindText.btnClose.Caption=&C 关闭
+
+;frmFindText.gbOptions.Caption= Options 
+frmFindText.gbOptions.Caption= 选项 
+
+;frmFindText.chkCaseSensitive.Caption=&case sensitive
+frmFindText.chkCaseSensitive.Caption=&C 大小写敏感
+
+;frmFindText.rgPosition.Caption= Origin 
+frmFindText.rgPosition.Caption= 原值 
+
+;frmFindText.rbOneField.Caption=in field
+frmFindText.rbOneField.Caption=在本字段中
+
+;frmFindText.rbAllFields.Caption=in all fields
+frmFindText.rbAllFields.Caption=在所有字段中
+
+;frmFindText.btnFindNext.Caption=Find &Next
+frmFindText.btnFindNext.Caption=&N 查找下一个
+
+;frmGotoRecord.Caption=Go to Record Number
+frmGotoRecord.Caption=跳到指定记录号
+
+;frmGotoRecord.btnOK.Caption=&OK
+frmGotoRecord.btnOK.Caption=&O 确认
+
+;frmGotoRecord.btnCancel.Caption=&Cancel
+frmGotoRecord.btnCancel.Caption=&C 取消
+
+;frmGotoRecord.lblRecNo.Caption=&Enter new record number:
+frmGotoRecord.lblRecNo.Caption=&E 输入新的记录号:
+
+;frmViewSQL.Caption=View generated script
+frmViewSQL.Caption=查看已创建的脚本
+
+;frmViewSQL.btnClose.Caption=&Close
+frmViewSQL.btnClose.Caption=&C 关闭
+
+;frmViewSQL.btnSaveAs.Caption=Save As...
+frmViewSQL.btnSaveAs.Caption=&A 另存为...
+
+;frmViewSQL.SaveDialog.Filter=Script-files (*.sql)|*.sql|All files (*.*)|*.*
+frmViewSQL.SaveDialog.Filter=脚本文件(*.sql)|*.sql|所有文件(*.*)|*.*
+
+;frmOptions.Caption=Preferencies
+frmOptions.Caption=参数选择
+
+;frmOptions.btnOK.Caption=&OK
+frmOptions.btnOK.Caption=&O 确认
+
+;frmOptions.btnCancel.Caption=&Cancel
+frmOptions.btnCancel.Caption=&C 取消
+
+;frmOptions.tsGeneral.Caption=General
+frmOptions.tsGeneral.Caption=常规
+
+;frmOptions.lblDefaultDirectory.Caption=Default directory:
+frmOptions.lblDefaultDirectory.Caption=缺省文件夹:
+
+;frmOptions.cbOpenLast.Caption=Automatically open last file on starting
+frmOptions.cbOpenLast.Caption=软件启动时自动打开最近处理过的文件
+
+;frmOptions.cbBeep.Caption=Beep after completed operation
+frmOptions.cbBeep.Caption=完成操作后以响铃提示
+
+;frmOptions.cbExtAssociate.Caption=Associate with files in MS Windows
+frmOptions.cbExtAssociate.Caption=与 MS Windows 中的文件关联
+
+;frmOptions.chkDisableMessageDialog.Caption=Disable message dialog after save/export
+frmOptions.chkDisableMessageDialog.Caption=保存/导出后不许信息对话框出现
+
+;frmOptions.tsGrid.Caption=Grid Layout
+frmOptions.tsGrid.Caption=数据表格设置
+
+;frmOptions.lblColorStyle.Caption=Color style (two color mode):
+frmOptions.lblColorStyle.Caption=颜色风格 (两种颜色模式):
+
+;frmOptions.cbUseCustomGridFont.Caption=use custom font for grid 
+frmOptions.cbUseCustomGridFont.Caption=数据表格使用自定义字体
+
+;frmOptions.pnlSampleText.Caption=Sample Text
+frmOptions.pnlSampleText.Caption=样本文字
+
+;frmOptions.btnGridFont.Caption=Customize...
+frmOptions.btnGridFont.Caption=自定义...
+
+;frmOptions.tsFieldNames.Caption=Table Fields
+frmOptions.tsFieldNames.Caption=数据表字段
+
+;frmOptions.rgFieldNameCase.Caption= Convert the field names 
+frmOptions.rgFieldNameCase.Caption= 转换字段名字 
+
+;frmOptions.chkSysCharConvert.Caption=convert all non-alfa char to
+frmOptions.chkSysCharConvert.Caption=转换所有非英文字母到
+
+;frmOptions.chkCRLFConvert.Caption=convert CR/LF (new line chars) to
+frmOptions.chkCRLFConvert.Caption=转换 CR(回车)/LF(换行) (新换行字符) 到
+
+;frmOptions.tsExport.Caption=Export
+frmOptions.tsExport.Caption=导出
+
+;frmOptions.lblCSVDelimiter.Caption=CSV field delimiter:
+frmOptions.lblCSVDelimiter.Caption=CSV字段分隔符:
+
+;frmOptions.lblCSVSeparator.Caption=CSV separator/text qualifier:
+frmOptions.lblCSVSeparator.Caption=CSV分离/文本限定字符:
+
+;frmOptions.lblSQLSyntax.Caption=Destination SQL database:
+frmOptions.lblSQLSyntax.Caption=目标SQL数据库:
+
+;frmOptions.lblPicFormat.Caption=Convert pictures to format :
+frmOptions.lblPicFormat.Caption=转换图片格式:
+
+;frmOptions.cbIncludeExportHeader.Caption=Include export header
+frmOptions.cbIncludeExportHeader.Caption=包含导出标题头
+
+[Custom]
+;AllFileExt=All files (*.*)|*.*
+AllFileExt=所有文件 (*.*)|*.*
+
+;DBWildCard=Paradox tables (*.db)|*.db|
+DBWildCard=Paradox 数据表 (*.db)|*.db|
+
+;DBFWildCard=dBase tables (*.dbf)|*.dbf|
+DBFWildCard=dBase 数据表 (*.dbf)|*.dbf|
+
+;DATWildCard=DBISAM tables (*.dat)|*.dat|
+DATWildCard=DBISAM 数据表 (*.dat)|*.dat|
+
+;CLAWildCard=Clarion data files (*.dat)|*.dat|
+CLAWildCard=Clarion 数据文件 (*.dat)|*.dat|
+
+;AppCopyright=Copyrightc Scalabium 2000-2017. All right reserved.
+AppCopyright=版权所有(C) Scalabium 2000-2017.
+
+;SaveWildCard=Comma-delimited files (*.csv)|*.csv|Text files (*.txt)|*.txt|HTML pages (*.htm)|*.htm;*.html|XML files (*.xml)|*.xml|MS Excel spreadsheets (*.xlw)|*.xlw|MS Excel workbooks (*.xls)|*.xls|SPSS format (*.sav)|*.sav|SQL-scripts (*.sql)|*.sql|All files (*.*)|*.*
+SaveWildCard=逗号分隔文件 (*.csv)|*.csv|文本文件 (*.txt)|*.txt|HTML 页面(*.htm)|*.htm;*.html|XML 格式文件 (*.xml)|*.xml|MS Excel 电子格式文件 (*.xlw)|*.xlw|MS Excel 工作簿文件 (*.xls)|*.xls|SPSS 格式 (*.sav)|*.sav|SQL脚本文件 (*.sql)|*.sql|所有文件 (*.*)|*.*
+
+;strSetDefaultLanguage=Default language interface will be loaded only after restarting application...
+strSetDefaultLanguage=默认语言界面将在重新启动本软件后装载...
+
+;strRegTo= This product is licensed to: 
+strRegTo= 本软件使用权属于: 
+
+;strOrderOnline=Order online at
+strOrderOnline=在线订购
+
+;strFileName=File name:
+strFileName=文件名字:
+
+;strGeneratedBy=Generated by
+strGeneratedBy=创建者
+
+;strSavedSuccesfully=%s file created succesfully.
+strSavedSuccesfully=%s 文件创建成功.
+
+;strFieldName=FieldName
+strFieldName=字段名字
+
+;strFieldType=Type
+strFieldType=类型
+
+;strFieldSize=Length
+strFieldSize=长度
+
+;strParamName=Name
+strParamName=名字
+
+;strParamValue=Value
+strParamValue=数值
+
+;strLoadTime=Load time
+strLoadTime=装载时间
+
+;strRecordSize=Record Size
+strRecordSize=记录大小
+
+;strHeaderSize=Header Size
+strHeaderSize=标题大小
+
+;strFileType=File Type
+strFileType=文件类型
+
+;strBlockSize=Block Size
+strBlockSize=块大小
+
+;strRecordCount=Record Count
+strRecordCount=记录数
+
+;strFieldCount=Field Count
+strFieldCount=字段数
+
+;strPrimaryKeys=Primary keys
+strPrimaryKeys=主键
+
+;strToRebuild=Rebuild required
+strToRebuild=必须重新构建
+
+;strSortOrder=Sort Order
+strSortOrder=排序次序
+
+;strUpdateCount=File update count
+strUpdateCount=文件更新次数
+
+;strLastAutoInc=Last used AutoInc value
+strLastAutoInc=最后使用的AutoInc数值
+
+;strProtection=Protection
+strProtection=保护
+
+;strWriteProtection=Write protection
+strWriteProtection=写保护
+
+;strFileID=File VersionID
+strFileID=文件版本ID
+
+;strTableLevel=Table Level
+strTableLevel=数据表层级
+
+;strVersionNumber=Version Number
+strVersionNumber=版本数字
+
+;strLastUpdated=Last updated
+strLastUpdated=最后更新
+
+;strIndexExists=Index exists
+strIndexExists=索引存在
+
+;strLangID=Language ID
+strLangID=语言 ID
+
+;strFileSignature=File Signature
+strFileSignature=文件签名
+
+;strNextFreeRecord=Next free record
+strNextFreeRecord=下一个空闲记录
+
+;strNextEndRecord=Next ending record
+strNextEndRecord=下一个结束记录
+
+;strLastRecordID=Last record ID
+strLastRecordID=最后记录 ID
+
+;strBlobFieldCount=BLOB field count
+strBlobFieldCount=BLOB 字段数
+
+;strBlobBlockSize=BLOB block size
+strBlobBlockSize=BLOB 块大小
+
+;strLastBlobSignature=Last BLOB signature
+strLastBlobSignature=最后 BLOB 签名
+
+;strIndexPageSize=Index page size
+strIndexPageSize=索引页大小
+
+;strDescription=Description
+strDescription=描述
+
+;strDigest=Digest
+strDigest=摘要
+
+;strLocaleID=Locale ID
+strLocaleID=现场 ID
+
+;strUserVersion=User version
+strUserVersion=用户版本
+
+;strRecNoError=Record number must be between 1 and %d
+strRecNoError=记录数必须介于 1 和 %d 之间
+
+;strFindNotFound=Record by specified text is not found.
+strFindNotFound=没有找到指定内容的记录.
+
+;strFindNextNotFound=No more records found.
+strFindNextNotFound=没有找到符合条件的更多记录.
+
+;strExtRegistered=successfully registered as default viewer for files
+strExtRegistered=成功地注册了该类文件的默认查看器
+
+;strExtUnRegistered=successfully unregistered as default viewer for files
+strExtUnRegistered=成功地取消了该类文件的默认查看器
+
+;strRequired=Required
+strRequired=必需
+
+;strCompression=Compression
+strCompression=压缩
+
+;strDefault=Default
+strDefault=默认
+
+;strMinimum=Minimum
+strMinimum=最小值
+
+;strMaximum=Maximum
+strMaximum=最大值
+
+;strFileAttribute=File attribute and status
+strFileAttribute=文件属性与状态
+
+;strNumberOfKeys=Number of keys
+strNumberOfKeys=键个数
+
+;strNumberOfDeleted=Number of deleted records
+strNumberOfDeleted=已删除记录数
+
+;strNumberOfPictures=Number of pictures
+strNumberOfPictures=图片张数
+
+;strNumberOfArrays=Number of arrays
+strNumberOfArrays=数组个数
+
+;strRecNameNoPrefix=Record without prefix
+strRecNameNoPrefix=记录无前缀
+
+;strRecNamePrefix=Record name prefix
+strRecNamePrefix=记录名字前缀
+
+;strFileNamePrefix=File name prefix
+strFileNamePrefix=文件名前缀
+
+;strLockCount=Lock Count
+strLockCount=锁定数
+
+;strChecksum=Checksum to encrypt
+strChecksum=加密
+
+;strRCaption=Setting up the registration key
+strRCaption=设置注册键
+
+;strRName=Registration Name:
+strRName=注册名字:
+
+;strRKey=Registration Key:
+strRKey=注册键:
+
+;strR=&Registration
+strR=&R 注册
+
+;strRCompany=Organization:
+strRCompany=公司:
+
+;strClipboardSN=We found the serial key in the clipboard. To process?
+strClipboardSN=在粘贴板中找到了序列号。要处理吗?
+
+;strBtnOk=&OK
+strBtnOk=&O 确认
+
+;strBtnCancel=&Cancel
+strBtnCancel=&C 取消
